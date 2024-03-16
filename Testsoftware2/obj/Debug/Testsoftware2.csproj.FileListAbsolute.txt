@@ -1,0 +1,10 @@
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\bin\Debug\Testsoftware2.exe.config
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\bin\Debug\Testsoftware2.exe
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\bin\Debug\Testsoftware2.pdb
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.csproj.AssemblyReference.cache
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.Form1.resources
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.Properties.Resources.resources
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.csproj.GenerateResource.cache
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.csproj.CoreCompileInputs.cache
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.exe
+C:\Users\BDGSA\Desktop\Apuntes\Tareas\Ing Software II\Testsoftware2\Testsoftware2\obj\Debug\Testsoftware2.pdb
